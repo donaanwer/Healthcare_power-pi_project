@@ -88,10 +88,7 @@ Most patients have **abnormal test results**, signaling potential health risks.
 - **Kaggle Dataset** — Publicly available healthcare records  
 
 ---
-
-## 📂 Repository Files
-- `Healthcare_Analysis.pbix` — Power BI Dashboard file  
-- `dataset/` — Raw dataset from Kaggle  
+ 
 
 ---
 
